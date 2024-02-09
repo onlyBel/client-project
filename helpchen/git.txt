@@ -1,0 +1,11 @@
+download executable file frrom git-scm.com on Windows
+run installation file with admin rights
+choose your installation location
+download default components including git GUI and git Bash
+choose your preferred Git default editor
+add Git to Windows PATH
+accept the default line ending for compatibility
+enable sys cache
+click Finish to complete
+open a Git Bash shell and start using Git:)
+after opening git,test it using git commands:init,add,config ,status and commit

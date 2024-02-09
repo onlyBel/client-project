@@ -1,0 +1,5 @@
+visit the download page for your device(requires a 64-bit o/s to run github desktop)
+click download for Windows
+In your downloads golder,click on Github Desktop setup file, it will launch when complete
+follow the signing in process from giving your email address and verifying it with a code sent through your given mail ,and the audio,visual and pattern verifications until you are signed in.
+when your Github account is set,click on your profile at the + sign at your right side click create a new repo,afterwards ,add the name of your preferred repo,click the create button,copy the https code and clone in your terminal in your local machine.

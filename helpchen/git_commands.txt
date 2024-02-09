@@ -1,0 +1,25 @@
+git init-initializes
+git checkout-checks out old commits and old file revisions and existing branches
+git clean-removes untracked files from working directory. 
+mkdir- make directory
+cd -copy directorygit clone -clones existing git repo
+git commit-takes staged snapshot and commits to project history
+git config-configuration
+git fetch -fetch downloads from  another repo
+git log- explores prev revisions of a project
+merge- combines to branches
+git pull- pulls the branches
+push- pushes the branches to repo
+rebase-moves branches around
+rebase -i - allows add,edit or delete commits remote -administers remote connections
+status - checks status of the repo poand which branch it is in
+reset- undo changes to files in working directory
+rmdir- remove directory
+revert- undo a comitted snapshot
+branch - independent line where repo is can be main/master
+rm -r - removes repo
+diff- shows file differences not staged yet
+git log - lists the version history for current branch
+git show- shows data and content changes of a specified commit
+git tag - gives tags to specified commit
+git stash save- temporarily stores all modified tracked files
